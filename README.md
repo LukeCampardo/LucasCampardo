@@ -1,5 +1,3 @@
-Opa tudo bom? Meu nome é Lucas!!
- 
- Sou estudante de Informática p/ Internet
- Mexo bastante com HTML, CSS e estou começando com JavaScript
- 
+Opa tudo certo? Meu nome é Lucas Campardo
+
+Sou estudante de Informática p/ Internet e entusiasta de Frontend e Backend. 
