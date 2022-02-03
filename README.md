@@ -1,4 +1,4 @@
 Opa tudo certo? Meu nome é Lucas Campardo
 
-Sou estudante de Informática p/ Internet e entusiasta de Frontend e Backend. 
-Também gosto de "brincar" com C#.
+Estou terminando o Ensino Médio integrado ao curso técnico de Informática para Internet.
+Atualmente estudando e mexendo com JavaScript
