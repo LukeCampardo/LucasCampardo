@@ -3,48 +3,24 @@ Welcome to my GitHub profile
 
 ## Who I am
 * Name: Lucas Campardo
-* I 17 years old
-* I was born in Mogi Mirim, São Paulo, Brazil
-* I have studied HTML and CSS on my high school
+* Age: 17
+* Living: Mogi Mirim - São Paulo, Brazil
+* Schooling: Finishing high school
 
+## More about me
+* My first contact with programming was in my first year of high school. However, my first contact with computer was when I was 7 years old;
+* I'm passionate about soccer and eletronic games like CS:GO, VALORANT and MultiVersus;
+* I love working in a team and I really enjoy helping other people;
+* I like to learn new things and be able to contribute in some way;
+* My favorite series are The Witcher, Stranger Things and The Umbrella Academy.
 
+## Tech and Tools
+### In my high school, I studied:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Olá pessoal 👋
-
-<! --
-**camilafernanda2/camilafernanda2** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
-
-Aqui estão algumas idéias para você começar:
-
-- 🔭 Atualmente estou trabalhando em ...
-- 🌱 Atualmente estou aprendendo ...
-- 👯 Estou procurando colaborar em ...
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
--->
+### Now, I'm studying for myself:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+          
