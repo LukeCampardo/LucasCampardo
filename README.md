@@ -26,4 +26,8 @@ Welcome to my GitHub profile
 
 ### Now, I'm studying for myself:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampardo&layout=compact&langs_count=7&theme=dracula"/>
+
+
           
