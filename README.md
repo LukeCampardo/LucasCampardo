@@ -17,7 +17,8 @@ Welcome to my GitHub profile
 * I'm passionate about soccer and eletronic games like CS:GO, VALORANT and MultiVersus;
 * I love working in a team and I really enjoy helping other people;
 * I like to learn new things and be able to contribute in some way;
-* My favorite series are The Witcher, Stranger Things and The Umbrella Academy.
+* My favorite series are The Witcher, Stranger Things and The Umbrella Academy;
+* I'm very interested in Cloud Computing.
 
 ## Tech and Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
