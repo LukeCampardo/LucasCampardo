@@ -20,6 +20,11 @@
 ## Studying now
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
 
+## Interested in
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" widht="40" height="40" />
+
+
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCampardo&layout=compact&langs_count=7&theme=dracula"/>
 
