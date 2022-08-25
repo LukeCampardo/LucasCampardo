@@ -4,8 +4,6 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=LukeCampardo&theme=blue-green"></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeCampardo&theme=blue-green"></a>
 </div>
-Estudando: Blockchain, Solidity and Golang
-Pronomes: Ele/Dele
 
 ## 🌐 Redes
 <div>
