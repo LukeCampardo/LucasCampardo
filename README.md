@@ -3,7 +3,7 @@
 <div>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=LukeCampardo&theme=blue-green"></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeCampardo&theme=blue-green"></a>
-[!Snake animation]https://github.com/LukeCampardo
+<a href="#"><img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg"></a>
 </div>
 
 ## 🌐 Redes
