@@ -9,7 +9,7 @@
 * Prazer, meu nome é Lucas Campardo;
 * Tenho 17 anos;
 * Sou natural de Mogi Mirim/SP;
-* Participo da comunidade tech He4rt Developers
+* Participo da comunidade tech He4rt Developers;
 * Tive meu primeiro contato com programação no Ensino Médio;
 * Meu hobbie preferido é jogar videogame (na grande maioria, jogos FPS e o FIFA);
 * Sou apaixonado por esportes, principalmente futebol e basquete;
