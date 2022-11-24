@@ -1,10 +1,3 @@
-## Olá, meu nome é Lucas Campardo!
-
-<div>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lucascampardo&theme=blue-green"></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampardo&theme=blue-green"></a>
-</div>
-
 ## Um pouco sobre mim
 * Prazer, meu nome é Lucas Campardo;
 * Tenho 17 anos;
