@@ -17,8 +17,8 @@
 <div>
 <!--<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" target="_blank" height=60 width=60></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" target="_blank" height=60 width=60></a>-->
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" target="_blank" height=60 width=60/>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" target="_blank" height=60 width=60/>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" target="_blank" height=60 width=60/>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" target="_blank" height=60 width=60/>
 <div>
   
   
