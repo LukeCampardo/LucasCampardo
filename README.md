@@ -9,4 +9,4 @@
 [![My Skills](https://skillicons.dev/icons?i=git,mysql&perline=5)](https://skillicons.dev)
 
 ## For now, I'm learning
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,linux&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,&perline=5)](https://skillicons.dev)
