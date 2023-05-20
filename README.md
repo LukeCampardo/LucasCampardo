@@ -6,7 +6,7 @@
 * A curiosity of mine, I am passionate about sports too, and I support Palmeiras(BRA) in soccer and the Boston Celtics in basketball
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=git,mysql&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,mysql,linux&perline=5)](https://skillicons.dev)
 
 ## For now, I'm learning
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,&perline=5)](https://skillicons.dev)
