@@ -9,12 +9,6 @@ Sou apaixonado por programação, sistemas embarcados, inteligência artifical e
   ### Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=git,mysql,linux,c,cpp&perline=5)](https://skillicons.dev)
 
-<!-- STATUS DO GITHUB -->
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascampardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampardo&layout=compact&langs_count=4&theme=tokyonight"/>
-</div>
-
 <!-- INFORMAÇÕES ADICIONAIS -->
   <a href="https://www.linkedin.com/in/lucascampardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <img src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"></a>
