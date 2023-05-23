@@ -28,3 +28,7 @@ In my laptop, I have Windows 11 installed and I use Debian 11 on VirtualBox and 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></a>
 </div>
+
+<!-- GITHUB STATUS -->
+ <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucascampardo" target="_blank"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucascampardo&theme=tokyonight"></a>
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampardo" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampardo&theme=tokyonight"></a>
