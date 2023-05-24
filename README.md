@@ -8,28 +8,21 @@ In my laptop, I have Windows 11 installed and I use Debian 11 on VirtualBox and 
 
   
   <!-- TECNOLOGIAS QUE TENHO DOMÍNIO -->
-  ### Stack
-[![My Skills](https://skillicons.dev/icons?i=git,mysql,linux&perline=5)](https://skillicons.dev)
+### Tech
 
-  ### I'm currently learning
-  [![My Skills](https://skillicons.dev/icons?i=java,c&perline=5)](https://skillicons.dev)
+ <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50px"/>
+ <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50px"/>
+ <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="50px"/>
+ <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height="50px"/>
 
+   
 <!-- INFORMAÇÕES ADICIONAIS -->
 ### Networks
   <a href="https://www.linkedin.com/in/lucascampardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:lucascampardo@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.twitter.com/proglucas_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://dev.to/lucascampardo" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-  <a href="https://mastodon.social/@lucascampardo" target="_blank"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white"></a>
-
-### Setup
-  <img src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></a>
-</div>
+ 
 
 <!-- GITHUB STATUS -->
- <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucascampardo" target="_blank"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucascampardo&theme=tokyonight"></a>
- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampardo" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampardo&theme=tokyonight"></a>
+ <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucascampardo" target="_blank"><img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucascampardo&theme=tokyonight"></a>
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampardo" target="_blank"><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampardo&theme=tokyonight"></a>
