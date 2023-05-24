@@ -9,12 +9,13 @@ In my laptop, I have Windows 11 installed and I use Debian 11 on VirtualBox and 
   
   <!-- TECNOLOGIAS QUE TENHO DOMÍNIO -->
 ### Tech
-
+<div display="inline_block">
  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50px"/>
+ <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50px"/>  
  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50px"/>
  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="50px"/>
  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height="50px"/>
-
+</div>
    
 <!-- INFORMAÇÕES ADICIONAIS -->
 ### Networks
