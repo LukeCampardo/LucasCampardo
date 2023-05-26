@@ -2,7 +2,7 @@
 
 My name is Lucas Campardo and I am a student of bachelor's degree of Computer Engineering
 
-I'm currently learning C at my college and Java for my own decision. My focus is backend but I like to study something about embedded systems and SO.
+I'm currently learning C at my college and Java for my own decision. My focus is backend but I like to study something about frontend and Linux.
 
 In my laptop, I have Windows 11 installed and I use Debian 11 on VirtualBox and Debian on WSL2
 
