@@ -1,3 +1,5 @@
+<div align="center">
+
 ## Welcome to my profile
 
 My name is Lucas Campardo and I am a student of bachelor's degree of Computer Engineering
@@ -21,3 +23,4 @@ In my laptop, I have Windows 11 installed and I use Debian 11 on VirtualBox and 
   <a href="https://www.linkedin.com/in/lucascampardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:lucascampardo@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.twitter.com/proglucas_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+   </div>
