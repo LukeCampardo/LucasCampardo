@@ -27,10 +27,10 @@ In my laptop, I have Windows 11 installed and I use Debian 11 on VirtualBox and 
    
    
    <div align="center">
-     <img width="63.2%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucascampardo&theme=cobalt"/>
+     <img width="63.2%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucascampardo&theme=dark"/>
   <!--<img width="33%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampardo&theme=cobalt" /> -->
-  <img width="45.7%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucascampardo&theme=cobalt" />
-  <img width="50.5%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=lucascampardo&theme=cobalt" />
-  <img width="48.1%" height="275px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucascampardo&theme=cobalt" />
-  <img width="48.1%" height="275px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucascampardo&theme=cobalt" />
+  <img width="45.7%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucascampardo&theme=dark" />
+  <img width="50.5%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=lucascampardo&theme=dark" />
+  <img width="48.1%" height="275px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucascampardo&theme=dark" />
+  <img width="48.1%" height="275px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucascampardo&theme=dark" />
    </div>
