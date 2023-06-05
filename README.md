@@ -1,11 +1,8 @@
 <div align="center">
 
-## Welcome to my profile
+### Welcome to my profile
 
-My name is Lucas Campardo and I am a student of bachelor's degree of Computer Engineering
-
-I'm currently learning C at my college and Java for my own decision. My focus is backend but I like to study something about frontend and Linux.
-  
+#### Hello, I'm Lucas and this is my GitHub profile. I'm a Computer Engineer student, and my focus is on backend development!   
   <!-- TECNOLOGIAS QUE TENHO DOMÍNIO -->
 ### Tech
 <div display="inline_block">
