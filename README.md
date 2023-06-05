@@ -9,10 +9,7 @@ I'm currently learning C at my college and Java for my own decision. My focus is
   <!-- TECNOLOGIAS QUE TENHO DOMÍNIO -->
 ### Tech
 <div display="inline_block">
- <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50px"/>
- <!--<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50px"/>   -->
- <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50px"/>
- <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="50px"/>
+ <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div>
 </div>
    
 <!-- INFORMAÇÕES ADICIONAIS -->
