@@ -2,11 +2,15 @@
 
 ### Welcome to my profile
 
-#### Hello, I'm Lucas and this is my GitHub profile. I'm a Computer Engineer student, and my focus is on backend development!   
+#### Hello, I'm Lucas and this is my GitHub profile. I'm a Computer Engineer student, and here I commit some personal frontend projects   
   <!-- TECNOLOGIAS QUE TENHO DOMÍNIO -->
 ### Tech
 <div display="inline-block">
- <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,git" />
+  </a>
+</p>
 </div>
    
 <!-- INFORMAÇÕES ADICIONAIS -->
