@@ -2,13 +2,14 @@
 
 ### Welcome to my profile
 
-#### Hello, I'm Lucas and this is my GitHub profile. I'm a Computer Engineer student, and here I commit some personal frontend projects   
+#### Hello, I'm Lucas and this is my GitHub profile. I'm a Computer Engineer student, and here I commit some personal frontend projects
+
   <!-- TECNOLOGIAS QUE TENHO DOMÍNIO -->
 ### Tech
-<div display="inline-block">
+<div display="flex">
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,vercel" />
   </a>
 </p>
 </div>
@@ -17,16 +18,12 @@
 ### Networks
   <a href="https://www.linkedin.com/in/lucascampardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:lucascampardo@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitter.com/proglucas_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://lucascampardo.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
-   </div>
    
-   
-   <div align="center">
-     <img width="63.2%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucascampardo&theme=dark"/>
-  <!--<img width="33%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampardo&theme=cobalt" /> -->
-  <!--<img width="45.7%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucascampardo&theme=dark" /> -->
-  <!--<img width="50.5%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=lucascampardo&theme=dark" /> -->
+<div align="center">
+  <img width="63.2%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucascampardo&theme=dark"/>
+<!--   <img width="33%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascampardo&theme=cobalt" /> -->
+<!--   <img width="45.7%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucascampardo&theme=dark" /> -->
+<!--   <img width="50.5%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=lucascampardo&theme=dark" /> -->
   <img width="48.1%" height="275px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucascampardo&theme=dark" />
   <img width="48.1%" height="275px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucascampardo&theme=dark" />
-   </div>
+</div>
